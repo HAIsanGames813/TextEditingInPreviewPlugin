@@ -9,7 +9,7 @@
 ## インストール方法
 [ここからダウンロード](https://github.com/HAIsanGames813/TextEditingInPreviewPlugin/releases/latest)
 
-##使用方法
+## 使用方法
 プレビュー上のボイスアイテムやテキストアイテムのテキストをダブルクリックすることでテキスト編集モードに入れます
 
 ## ライセンス
